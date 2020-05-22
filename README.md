@@ -6,6 +6,15 @@ In the project directory, you can run:
 
 ### `npm start`
 
+But you also have to run the server that manages the website's database. This is doneby:
+
+### `node server/index.js`
+
+or if you want to use nodemon:
+
+### `nodemon server/index.js`
+
+
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
