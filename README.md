@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-But you also have to run the server that manages the website's database. This is doneby:
+But you also have to run the server that manages the website's database. This is done by:
 
 ### `node server/index.js`
 
