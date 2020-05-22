@@ -1,9 +1,9 @@
 ## DESCRIPTION
 
 This is a React, Node, Express, and NeDB(instead of MongoDB) project that stores the user's workouts including reps, sets, and a description of each workout. 
-
+![Image of Application](https://github.com/19neloyk/ExerciseTracker/blob/master/Screen%20Shot%202020-05-22%20at%201.56.22%20PM.png)
 Aside from the obvious functionalities of the web application (given the content of the buttons), the user has the option to change the workout name, reps, sets, or description by simply hovering over the fields and clicking them. 
-
+![Image of changing one of the fields](https://github.com/19neloyk/ExerciseTracker/blob/master/Screen%20Shot%202020-05-22%20at%201.57.50%20PM.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
