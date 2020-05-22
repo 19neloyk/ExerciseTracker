@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.workoutBox {
+  font-family: Georgia;
+  font-size: 45px;
+  border-color: crimson;
+  border-width: 2px;
+  
+}
