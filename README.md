@@ -1,3 +1,10 @@
+## DESCRIPTION
+
+This is a React, Node, Express, and NeDB project that stores the user's workouts including reps, sets, and a description of each workout. 
+
+Aside from the obvious functionalities of the web application (given the content of the buttons), the user has the option to change the workout name, reps, sets, or description by simply hovering over the fields and clicking them. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
